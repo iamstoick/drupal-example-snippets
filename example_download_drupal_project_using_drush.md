@@ -16,13 +16,17 @@ $ drush
 Examples:
 ---------
 To download Views module.
+
 `$ drush dl views`
 
 To download Zen theme.
+
 `$ drush dl zen`
 
 To specify the location of the downloaded module.
+
 `$ drush dl views --destination=sites/all/modules/contrib`
 
 To select specific version before downloading.
+
 `$ drush dl views --select`
