@@ -5,6 +5,8 @@ Some good examples in Drupal development. By developers for developers.
 
 ## Please fork and contribute.
 
+Please see the [contributing guideliness](https://github.com/geraldvillorente/drupal-example-snippets/blob/master/CONTRIBUTING.md).
+
 Index
 -----
 
