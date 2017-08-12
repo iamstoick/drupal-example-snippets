@@ -25,7 +25,7 @@ Drupal.behaviors.iamAwesome = {
     // jQuery.once is integrated into Drupal 7 core.
     context.once(function() {
       $('h1', this).addClass('.drupal-is-awesome');
-    }
+    });
   },
 
   detach: function (context, settings) {
